@@ -1,0 +1,10 @@
+
+# Build output / local env
+bin/
+obj/
+packages/
+.vs/
+.venv/
+venv/
+__pycache__/
+*.user
